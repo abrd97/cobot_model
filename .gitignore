@@ -1,0 +1,5 @@
+.venv/
+.env/
+.cobot_model/
+output/*
+.ipynb_checkpoints/
