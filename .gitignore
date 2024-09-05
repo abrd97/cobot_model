@@ -3,3 +3,5 @@
 .cobot_model/
 output/*
 .ipynb_checkpoints/
+gt/
+split/
