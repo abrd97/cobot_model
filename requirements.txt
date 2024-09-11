@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+skorch
+matplotlib
+opencv-python
+jupyter
+notebook
+onnx
+onnxruntime
+termcolor
+Pillow
